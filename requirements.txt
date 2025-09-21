@@ -1,0 +1,2 @@
+# Aucune dépendance externe requise pour ce projet
+# Le projet utilise uniquement les modules standard de Python
